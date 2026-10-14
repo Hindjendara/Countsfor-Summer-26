@@ -2,7 +2,7 @@
   "metadata": {
     "source": "Carnegie Mellon University -- Schedule of Classes",
     "url": "https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search",
-    "last_scrape": "2026-10-13T18:54:29.152658+00:00",
+    "last_scrape": "2026-10-14T10:52:15.116118+00:00",
     "semesters_on_form": [
       {
         "code": "F26",
@@ -20609,7 +20609,7 @@
         },
         {
           "course_number": "45941",
-          "title": "Evidence-Based Management",
+          "title": "Evidence-Based Management This Section Cancelled",
           "units": "6",
           "department_code": "BUS",
           "department": "Business Administration",
@@ -209322,7 +209322,7 @@
           "sections": 50
         }
       ],
-      "scraped_at": "2026-10-13T18:54:29.152658+00:00",
+      "scraped_at": "2026-10-14T10:52:15.116118+00:00",
       "semester_label": "Fall 2026",
       "total_courses": 3241,
       "total_sections": 7134
@@ -225091,22 +225091,19 @@
           "code": "MLG",
           "name": "Machine Learning",
           "courses": 1,
-          "sections": 9,
-          "error": "DOH: The read operation timed out"
+          "sections": 9
         },
         {
           "code": "MSE",
           "name": "Materials Science & Engineering",
           "courses": 1,
-          "sections": 10,
-          "error": "DOH: The read operation timed out"
+          "sections": 10
         },
         {
           "code": "MSC",
           "name": "Mathematical Sciences",
           "courses": 1,
-          "sections": 24,
-          "error": "DOH: HTTP Error 500: Internal Server Error"
+          "sections": 24
         },
         {
           "code": "MEG",
@@ -225217,7 +225214,7 @@
           "sections": 0
         }
       ],
-      "scraped_at": "2026-10-13T18:54:29.152658+00:00",
+      "scraped_at": "2026-10-14T10:52:15.116118+00:00",
       "semester_label": "Summer 2026",
       "total_courses": 80,
       "total_sections": 647
@@ -264736,7 +264733,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "02:00PM",
-              "end_time": "04:50PM",
+              "end_time": "02:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -264777,7 +264774,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 02:00PM-04:50PM",
+              "days_times": "TR 02:00PM-02:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -431110,7 +431107,7 @@
           "sections": 39
         }
       ],
-      "scraped_at": "2026-10-13T18:54:29.152658+00:00",
+      "scraped_at": "2026-10-14T10:52:15.116118+00:00",
       "semester_label": "Spring 2026",
       "total_courses": 3208,
       "total_sections": 7004
@@ -444023,7 +444020,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "12:00PM",
-              "end_time": "12:50PM",
+              "end_time": "04:00PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -444043,7 +444040,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "12:00PM",
-              "end_time": "04:00PM",
+              "end_time": "12:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -444105,7 +444102,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 12:00PM-12:50PM",
+              "days_times": "TR 12:00PM-04:00PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -444129,7 +444126,7 @@
               "section": "D",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 12:00PM-04:00PM",
+              "days_times": "TR 12:00PM-12:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -638842,7 +638839,7 @@
           "sections": 36
         }
       ],
-      "scraped_at": "2026-10-13T18:54:29.152658+00:00",
+      "scraped_at": "2026-10-14T10:52:15.116118+00:00",
       "semester_label": "Fall 2025",
       "total_courses": 3213,
       "total_sections": 7084
