@@ -6266,7 +6266,7 @@
           "section": "D",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 12:00PM-04:00PM",
+          "days_times": "TR 12:00PM-12:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -6534,7 +6534,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "MF 12:00PM-12:50PM",
+          "days_times": "MF 12:00PM-04:00PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -6546,7 +6546,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 12:00PM-04:00PM",
+          "days_times": "TR 12:00PM-12:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -16888,7 +16888,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "9",
-          "days_times": "MW 02:00PM-04:20PM",
+          "days_times": "MW 02:00PM-02:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -16960,7 +16960,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "9",
-          "days_times": "MW 02:00PM-04:20PM",
+          "days_times": "MW 02:00PM-02:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -18273,7 +18273,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "MW 02:00PM-02:50PM",
+          "days_times": "MW 02:00PM-04:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -18285,7 +18285,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 02:00PM-04:50PM",
+          "days_times": "TR 02:00PM-02:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -659294,7 +659294,7 @@
           "campus": "Pittsburgh",
           "section": "A",
           "modality": "In Person",
-          "units": "6",
+          "units": "VAR",
           "days_times": "MW 02:00PM-03:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -734701,9 +734701,9 @@
     },
     {
       "course_code": "82-064",
-      "course_name": "Francophone Poetry: Reading, Writing and Experimentation",
+      "course_name": "Italian Food Culture",
       "department": "82",
-      "units": 6,
+      "units": 3,
       "description": "",
       "prerequisites": "",
       "offered": [
@@ -734745,9 +734745,9 @@
           "delivery_mode_raw": "In-person Expectation"
         }
       ],
-      "soc_title": "Francophone Poetry: Reading, Writing and Experimentation",
       "soc_department": "Languages Cultures & Appl Linguistics",
-      "soc_ingested": true
+      "soc_ingested": true,
+      "previous_course_name": "Francophone Poetry: Reading, Writing and Experimentation"
     },
     {
       "course_code": "99-107",
