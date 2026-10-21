@@ -2,7 +2,7 @@
   "metadata": {
     "source": "Carnegie Mellon University -- Schedule of Classes",
     "url": "https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search",
-    "last_scrape": "2026-10-20T16:23:34.093857+00:00",
+    "last_scrape": "2026-10-21T10:51:07.800032+00:00",
     "semesters_on_form": [
       {
         "code": "F26",
@@ -24254,8 +24254,8 @@
               "section": "A2",
               "mini": "Y",
               "days": "M",
-              "begin_time": "01:00PM",
-              "end_time": "03:50PM",
+              "begin_time": "01:30PM",
+              "end_time": "04:30PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person Expectation",
               "campus": "Pittsburgh"
@@ -24272,7 +24272,7 @@
               "section": "A2",
               "modality": "In Person",
               "units": "6",
-              "days_times": "M 01:00PM-03:50PM",
+              "days_times": "M 01:30PM-04:30PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation"
@@ -38415,7 +38415,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "06:30PM",
-              "end_time": "08:50PM",
+              "end_time": "07:20PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -38477,7 +38477,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "9",
-              "days_times": "MW 06:30PM-08:50PM",
+              "days_times": "MW 06:30PM-07:20PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -38779,7 +38779,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "02:00PM",
-              "end_time": "02:50PM",
+              "end_time": "04:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -38808,7 +38808,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 02:00PM-02:50PM",
+              "days_times": "TR 02:00PM-04:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -128386,6 +128386,44 @@
           "semester_code": "F26"
         },
         {
+          "course_number": "82506",
+          "title": "LCAL Independent Study - MINI ONLY",
+          "units": "3-18",
+          "department_code": "LCL",
+          "department": "Languages Cultures & Appl Linguistics",
+          "sections": [
+            {
+              "section": "A2",
+              "mini": "Y",
+              "days": "TBA",
+              "begin_time": "TBA",
+              "end_time": "TBA",
+              "location": "Pittsburgh, Pennsylvania",
+              "delivery_mode": "In-person Expectation",
+              "campus": "Pittsburgh"
+            }
+          ],
+          "campus": [
+            "Pittsburgh"
+          ],
+          "offerings": [
+            {
+              "semester": "Fall 2026",
+              "semester_code": "F26",
+              "campus": "Pittsburgh",
+              "section": "A2",
+              "modality": "In Person",
+              "units": "3-18",
+              "days_times": "TBA",
+              "instructor": "",
+              "location": "Pittsburgh, Pennsylvania",
+              "delivery_mode_raw": "In-person Expectation"
+            }
+          ],
+          "semester": "Fall 2026",
+          "semester_code": "F26"
+        },
+        {
           "course_number": "82511",
           "title": "Special Topics in Arabic Studies",
           "units": "3-18",
@@ -209284,8 +209322,8 @@
         {
           "code": "LCL",
           "name": "Languages Cultures & Appl Linguistics",
-          "courses": 129,
-          "sections": 190
+          "courses": 130,
+          "sections": 191
         },
         {
           "code": "MCS",
@@ -209420,10 +209458,10 @@
           "sections": 50
         }
       ],
-      "scraped_at": "2026-10-20T16:23:34.093857+00:00",
+      "scraped_at": "2026-10-21T10:51:07.800032+00:00",
       "semester_label": "Fall 2026",
-      "total_courses": 3243,
-      "total_sections": 7137
+      "total_courses": 3244,
+      "total_sections": 7138
     },
     "M26": {
       "courses": [
@@ -225312,7 +225350,7 @@
           "sections": 0
         }
       ],
-      "scraped_at": "2026-10-20T16:23:34.093857+00:00",
+      "scraped_at": "2026-10-21T10:51:07.800032+00:00",
       "semester_label": "Summer 2026",
       "total_courses": 80,
       "total_sections": 647
@@ -431205,7 +431243,7 @@
           "sections": 39
         }
       ],
-      "scraped_at": "2026-10-20T16:23:34.093857+00:00",
+      "scraped_at": "2026-10-21T10:51:07.800032+00:00",
       "semester_label": "Spring 2026",
       "total_courses": 3208,
       "total_sections": 7004
@@ -638937,7 +638975,7 @@
           "sections": 36
         }
       ],
-      "scraped_at": "2026-10-20T16:23:34.093857+00:00",
+      "scraped_at": "2026-10-21T10:51:07.800032+00:00",
       "semester_label": "Fall 2025",
       "total_courses": 3213,
       "total_sections": 7084
