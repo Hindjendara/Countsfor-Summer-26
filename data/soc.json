@@ -2,7 +2,7 @@
   "metadata": {
     "source": "Carnegie Mellon University -- Schedule of Classes",
     "url": "https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search",
-    "last_scrape": "2026-10-21T10:51:07.800032+00:00",
+    "last_scrape": "2026-10-21T16:39:56.121582+00:00",
     "semesters_on_form": [
       {
         "code": "F26",
@@ -209458,7 +209458,7 @@
           "sections": 50
         }
       ],
-      "scraped_at": "2026-10-21T10:51:07.800032+00:00",
+      "scraped_at": "2026-10-21T16:39:56.121582+00:00",
       "semester_label": "Fall 2026",
       "total_courses": 3244,
       "total_sections": 7138
@@ -225350,7 +225350,7 @@
           "sections": 0
         }
       ],
-      "scraped_at": "2026-10-21T10:51:07.800032+00:00",
+      "scraped_at": "2026-10-21T16:39:56.121582+00:00",
       "semester_label": "Summer 2026",
       "total_courses": 80,
       "total_sections": 647
@@ -431243,7 +431243,7 @@
           "sections": 39
         }
       ],
-      "scraped_at": "2026-10-21T10:51:07.800032+00:00",
+      "scraped_at": "2026-10-21T16:39:56.121582+00:00",
       "semester_label": "Spring 2026",
       "total_courses": 3208,
       "total_sections": 7004
@@ -638975,7 +638975,7 @@
           "sections": 36
         }
       ],
-      "scraped_at": "2026-10-21T10:51:07.800032+00:00",
+      "scraped_at": "2026-10-21T16:39:56.121582+00:00",
       "semester_label": "Fall 2025",
       "total_courses": 3213,
       "total_sections": 7084
