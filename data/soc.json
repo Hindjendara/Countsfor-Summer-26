@@ -2,7 +2,7 @@
   "metadata": {
     "source": "Carnegie Mellon University -- Schedule of Classes",
     "url": "https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search",
-    "last_scrape": "2026-10-21T16:39:56.121582+00:00",
+    "last_scrape": "2026-10-22T10:52:28.326099+00:00",
     "semesters_on_form": [
       {
         "code": "F26",
@@ -12563,7 +12563,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "12:00PM",
-              "end_time": "12:50PM",
+              "end_time": "04:00PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -12583,7 +12583,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "12:00PM",
-              "end_time": "04:00PM",
+              "end_time": "12:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -12645,7 +12645,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 12:00PM-12:50PM",
+              "days_times": "TR 12:00PM-04:00PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -12669,7 +12669,7 @@
               "section": "D",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 12:00PM-04:00PM",
+              "days_times": "TR 12:00PM-12:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -38779,7 +38779,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "02:00PM",
-              "end_time": "04:50PM",
+              "end_time": "02:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -38808,7 +38808,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 02:00PM-04:50PM",
+              "days_times": "TR 02:00PM-02:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -123953,7 +123953,7 @@
         },
         {
           "course_number": "82064",
-          "title": "Italian Food Culture",
+          "title": "Italian Food Culture This Section Cancelled",
           "units": "3",
           "department_code": "LCL",
           "department": "Languages Cultures & Appl Linguistics",
@@ -164232,6 +164232,44 @@
               "modality": "In Person",
               "units": "6",
               "days_times": "TR 10:00AM-10:50AM",
+              "instructor": "",
+              "location": "Pittsburgh, Pennsylvania",
+              "delivery_mode_raw": "In-person Expectation"
+            }
+          ],
+          "semester": "Fall 2026",
+          "semester_code": "F26"
+        },
+        {
+          "course_number": "57608",
+          "title": "Keyboard Studies for Graduate Music Education I",
+          "units": "3",
+          "department_code": "MUS",
+          "department": "Music",
+          "sections": [
+            {
+              "section": "A",
+              "mini": "",
+              "days": "R",
+              "begin_time": "11:00AM",
+              "end_time": "11:50AM",
+              "location": "Pittsburgh, Pennsylvania",
+              "delivery_mode": "In-person Expectation",
+              "campus": "Pittsburgh"
+            }
+          ],
+          "campus": [
+            "Pittsburgh"
+          ],
+          "offerings": [
+            {
+              "semester": "Fall 2026",
+              "semester_code": "F26",
+              "campus": "Pittsburgh",
+              "section": "A",
+              "modality": "In Person",
+              "units": "3",
+              "days_times": "R 11:00AM-11:50AM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation"
@@ -209364,8 +209402,8 @@
         {
           "code": "MUS",
           "name": "Music",
-          "courses": 305,
-          "sections": 1002
+          "courses": 306,
+          "sections": 1003
         },
         {
           "code": "NVS",
@@ -209458,10 +209496,10 @@
           "sections": 50
         }
       ],
-      "scraped_at": "2026-10-21T16:39:56.121582+00:00",
+      "scraped_at": "2026-10-22T10:52:28.326099+00:00",
       "semester_label": "Fall 2026",
-      "total_courses": 3244,
-      "total_sections": 7138
+      "total_courses": 3245,
+      "total_sections": 7139
     },
     "M26": {
       "courses": [
@@ -225350,7 +225388,7 @@
           "sections": 0
         }
       ],
-      "scraped_at": "2026-10-21T16:39:56.121582+00:00",
+      "scraped_at": "2026-10-22T10:52:28.326099+00:00",
       "semester_label": "Summer 2026",
       "total_courses": 80,
       "total_sections": 647
@@ -237820,7 +237858,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "12:00PM",
-              "end_time": "12:50PM",
+              "end_time": "04:00PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -237882,7 +237920,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 12:00PM-12:50PM",
+              "days_times": "TR 12:00PM-04:00PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -264584,7 +264622,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "06:30PM",
-              "end_time": "08:50PM",
+              "end_time": "07:20PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -264625,7 +264663,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "9",
-              "days_times": "MW 06:30PM-08:50PM",
+              "days_times": "MW 06:30PM-07:20PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -410402,7 +410440,7 @@
         {
           "course_number": "85310",
           "title": "Research Methods in Cognitive Psychology This Section Cancelled",
-          "units": "9",
+          "units": "12",
           "department_code": "PSY",
           "department": "Psychology",
           "sections": [
@@ -410438,7 +410476,7 @@
               "campus": "Pittsburgh",
               "section": "A",
               "modality": "In Person",
-              "units": "9",
+              "units": "12",
               "days_times": "MWF 10:00AM-10:50AM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
@@ -410450,7 +410488,7 @@
               "campus": "Qatar",
               "section": "W",
               "modality": "In Person",
-              "units": "9",
+              "units": "12",
               "days_times": "UT 11:30AM-12:45PM",
               "instructor": "",
               "location": "Doha, Qatar",
@@ -410463,7 +410501,7 @@
         {
           "course_number": "85330",
           "title": "Developmental Research Methods",
-          "units": "9",
+          "units": "12",
           "department_code": "PSY",
           "department": "Psychology",
           "sections": [
@@ -410488,7 +410526,7 @@
               "campus": "Pittsburgh",
               "section": "A",
               "modality": "In Person",
-              "units": "9",
+              "units": "12",
               "days_times": "TR 03:30PM-04:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
@@ -431243,7 +431281,7 @@
           "sections": 39
         }
       ],
-      "scraped_at": "2026-10-21T16:39:56.121582+00:00",
+      "scraped_at": "2026-10-22T10:52:28.326099+00:00",
       "semester_label": "Spring 2026",
       "total_courses": 3208,
       "total_sections": 7004
@@ -444156,7 +444194,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "12:00PM",
-              "end_time": "12:50PM",
+              "end_time": "04:00PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -444238,7 +444276,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 12:00PM-12:50PM",
+              "days_times": "TR 12:00PM-04:00PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -617444,7 +617482,7 @@
         {
           "course_number": "85310",
           "title": "Research Methods in Cognitive Psychology",
-          "units": "9",
+          "units": "12",
           "department_code": "PSY",
           "department": "Psychology",
           "sections": [
@@ -617469,7 +617507,7 @@
               "campus": "Pittsburgh",
               "section": "A",
               "modality": "In Person",
-              "units": "9",
+              "units": "12",
               "days_times": "MWF 10:00AM-10:50AM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
@@ -638975,7 +639013,7 @@
           "sections": 36
         }
       ],
-      "scraped_at": "2026-10-21T16:39:56.121582+00:00",
+      "scraped_at": "2026-10-22T10:52:28.326099+00:00",
       "semester_label": "Fall 2025",
       "total_courses": 3213,
       "total_sections": 7084

@@ -6361,7 +6361,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 12:00PM-12:50PM",
+          "days_times": "TR 12:00PM-04:00PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -6385,7 +6385,7 @@
           "section": "D",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 12:00PM-04:00PM",
+          "days_times": "TR 12:00PM-12:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -6445,7 +6445,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 12:00PM-12:50PM",
+          "days_times": "TR 12:00PM-04:00PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -6645,7 +6645,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 12:00PM-12:50PM",
+          "days_times": "TR 12:00PM-04:00PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -17318,7 +17318,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "9",
-          "days_times": "MW 06:30PM-08:50PM",
+          "days_times": "MW 06:30PM-07:20PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -18403,7 +18403,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 02:00PM-04:50PM",
+          "days_times": "TR 02:00PM-02:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -177240,7 +177240,7 @@
           "campus": "Pittsburgh",
           "section": "A",
           "modality": "In Person",
-          "units": "9",
+          "units": "12",
           "days_times": "MWF 10:00AM-10:50AM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -177252,7 +177252,7 @@
           "campus": "Qatar",
           "section": "W",
           "modality": "In Person",
-          "units": "9",
+          "units": "12",
           "days_times": "UT 11:30AM-12:45PM",
           "instructor": "",
           "location": "Doha, Qatar",
@@ -177264,7 +177264,7 @@
           "campus": "Pittsburgh",
           "section": "A",
           "modality": "In Person",
-          "units": "9",
+          "units": "12",
           "days_times": "MWF 10:00AM-10:50AM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -476264,6 +476264,18 @@
       "soc_sections": [
         {
           "section": "A",
+          "days": "R",
+          "begin_time": "",
+          "end_time": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode": "In-person Expectation",
+          "campus": "Pittsburgh",
+          "modality": "In Person",
+          "semester_code": "F26",
+          "semester": "Fall 2026"
+        },
+        {
+          "section": "A",
           "days": "F",
           "begin_time": "",
           "end_time": "",
@@ -476276,6 +476288,18 @@
         }
       ],
       "offerings": [
+        {
+          "semester": "Fall 2026",
+          "semester_code": "F26",
+          "campus": "Pittsburgh",
+          "section": "A",
+          "modality": "In Person",
+          "units": "3",
+          "days_times": "R 11:00AM-11:50AM",
+          "instructor": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode_raw": "In-person Expectation"
+        },
         {
           "semester": "Fall 2025",
           "semester_code": "F25",
@@ -704088,7 +704112,7 @@
           "campus": "Pittsburgh",
           "section": "A",
           "modality": "In Person",
-          "units": "9",
+          "units": "12",
           "days_times": "TR 03:30PM-04:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
