@@ -7677,7 +7677,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "MF 12:00PM-12:50PM",
+          "days_times": "MF 12:00PM-04:00PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -7737,7 +7737,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "MF 12:00PM-12:50PM",
+          "days_times": "MF 12:00PM-04:00PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -7749,7 +7749,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 12:00PM-04:00PM",
+          "days_times": "TR 12:00PM-12:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -8005,7 +8005,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "MF 12:00PM-04:00PM",
+          "days_times": "MF 12:00PM-12:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -21179,7 +21179,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "9",
-          "days_times": "MW 06:30PM-08:50PM",
+          "days_times": "MW 06:30PM-07:20PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -21203,7 +21203,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "9",
-          "days_times": "MW 02:00PM-02:50PM",
+          "days_times": "MW 02:00PM-04:20PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person Expectation Rotation"
@@ -21215,7 +21215,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "9",
-          "days_times": "MW 06:30PM-07:20PM",
+          "days_times": "MW 06:30PM-08:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -22492,7 +22492,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 02:00PM-02:50PM",
+          "days_times": "TR 02:00PM-04:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -22540,7 +22540,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "MW 02:00PM-04:50PM",
+          "days_times": "MW 02:00PM-02:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -22552,7 +22552,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 02:00PM-02:50PM",
+          "days_times": "TR 02:00PM-04:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -156141,7 +156141,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "F 02:30PM-05:10PM",
+          "days_times": "F 01:00PM-03:10PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person Expectation"
@@ -571517,7 +571517,7 @@
           "section": "C",
           "modality": "In Person",
           "units": "6",
-          "days_times": "T 02:00PM-03:20PM",
+          "days_times": "T 12:30PM-01:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person Expectation"
@@ -718193,18 +718193,6 @@
           "semester": "Spring 2027"
         },
         {
-          "section": "B4",
-          "days": "TBA",
-          "begin_time": "",
-          "end_time": "",
-          "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode": "In-person Expectation",
-          "campus": "Pittsburgh",
-          "modality": "In Person",
-          "semester_code": "S27",
-          "semester": "Spring 2027"
-        },
-        {
           "section": "A1",
           "days": "TR",
           "begin_time": "",
@@ -718250,18 +718238,6 @@
           "modality": "In Person",
           "units": "6",
           "days_times": "MW 05:00PM-06:20PM",
-          "instructor": "",
-          "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode_raw": "In-person Expectation"
-        },
-        {
-          "semester": "Spring 2027",
-          "semester_code": "S27",
-          "campus": "Pittsburgh",
-          "section": "B4",
-          "modality": "In Person",
-          "units": "6",
-          "days_times": "TBA",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person Expectation"
@@ -815665,7 +815641,7 @@
           "section": "A4",
           "modality": "In Person",
           "units": "3",
-          "days_times": "T 03:30PM-04:50PM",
+          "days_times": "T 02:00PM-03:20PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -815677,7 +815653,7 @@
           "section": "B4",
           "modality": "In Person",
           "units": "3",
-          "days_times": "R 03:30PM-04:50PM",
+          "days_times": "R 02:00PM-03:20PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -819878,7 +819854,7 @@
       "soc_sections": [
         {
           "section": "A3",
-          "days": "T",
+          "days": "R",
           "begin_time": "",
           "end_time": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -819909,7 +819885,7 @@
           "section": "A3",
           "modality": "In Person",
           "units": "3",
-          "days_times": "T 10:00AM-11:20AM",
+          "days_times": "R 09:30AM-10:50AM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -830847,7 +830823,7 @@
           "section": "C",
           "modality": "In Person",
           "units": "6",
-          "days_times": "T 02:00PM-03:20PM",
+          "days_times": "T 12:30PM-01:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person Expectation"
@@ -894212,7 +894188,7 @@
     },
     {
       "course_code": "24-674",
-      "course_name": "Design of Biomechatronic Systems for Humans",
+      "course_name": "Special Topics: Robotic Materials & Hardware ? Lab to Market Translation",
       "department": "24",
       "units": 12,
       "description": "",
@@ -894256,9 +894232,9 @@
           "delivery_mode_raw": "In-person Expectation"
         }
       ],
-      "soc_title": "Design of Biomechatronic Systems for Humans",
       "soc_department": "Mechanical Engineering",
-      "soc_ingested": true
+      "soc_ingested": true,
+      "previous_course_name": "Design of Biomechatronic Systems for Humans"
     },
     {
       "course_code": "24-676",
@@ -897372,18 +897348,6 @@
       },
       "soc_sections": [
         {
-          "section": "A",
-          "days": "M",
-          "begin_time": "",
-          "end_time": "",
-          "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode": "In-person Expectation",
-          "campus": "Pittsburgh",
-          "modality": "In Person",
-          "semester_code": "S27",
-          "semester": "Spring 2027"
-        },
-        {
           "section": "A3",
           "days": "M",
           "begin_time": "",
@@ -897397,18 +897361,6 @@
         }
       ],
       "offerings": [
-        {
-          "semester": "Spring 2027",
-          "semester_code": "S27",
-          "campus": "Pittsburgh",
-          "section": "A",
-          "modality": "In Person",
-          "units": "3",
-          "days_times": "M 01:00PM-02:30PM",
-          "instructor": "",
-          "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode_raw": "In-person Expectation"
-        },
         {
           "semester": "Spring 2027",
           "semester_code": "S27",
@@ -897446,8 +897398,8 @@
       },
       "soc_sections": [
         {
-          "section": "A",
-          "days": "TBA",
+          "section": "A4",
+          "days": "M",
           "begin_time": "",
           "end_time": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -897463,10 +897415,10 @@
           "semester": "Spring 2027",
           "semester_code": "S27",
           "campus": "Pittsburgh",
-          "section": "A",
+          "section": "A4",
           "modality": "In Person",
-          "units": "9",
-          "days_times": "TBA",
+          "units": "3",
+          "days_times": "M 01:00PM-02:30PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person Expectation"
@@ -898366,7 +898318,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "6",
-          "days_times": "TR 02:00PM-03:20PM",
+          "days_times": "TR 03:30PM-04:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -901121,7 +901073,7 @@
       "soc_sections": [
         {
           "section": "W",
-          "days": "TBA",
+          "days": "UT",
           "begin_time": "",
           "end_time": "",
           "location": "Doha, Qatar",
@@ -901140,7 +901092,7 @@
           "section": "W",
           "modality": "In Person",
           "units": "9",
-          "days_times": "TBA",
+          "days_times": "UT 11:30AM-12:45PM",
           "instructor": "",
           "location": "Doha, Qatar",
           "delivery_mode_raw": "In-person Expectation"
@@ -901640,7 +901592,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "F 02:30PM-05:10PM",
+          "days_times": "F 01:00PM-03:10PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person Expectation"
@@ -906810,6 +906762,206 @@
       ],
       "soc_title": "Global Issues and AI: Climate Action",
       "soc_department": "Carnegie Mellon University-Wide Studies",
+      "soc_ingested": true
+    },
+    {
+      "course_code": "51-606",
+      "course_name": "First Person: Live with the Founders and Investors Shaping the Frontier I",
+      "department": "51",
+      "units": 3,
+      "description": "",
+      "prerequisites": "",
+      "offered": [
+        "S27"
+      ],
+      "offered_qatar": false,
+      "offered_pitts": true,
+      "requirements": {
+        "CS": [],
+        "IS": [],
+        "BA": [],
+        "BS": []
+      },
+      "soc_sections": [
+        {
+          "section": "A3",
+          "days": "M",
+          "begin_time": "",
+          "end_time": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode": "In-person Expectation",
+          "campus": "Pittsburgh",
+          "modality": "In Person",
+          "semester_code": "S27",
+          "semester": "Spring 2027"
+        }
+      ],
+      "offerings": [
+        {
+          "semester": "Spring 2027",
+          "semester_code": "S27",
+          "campus": "Pittsburgh",
+          "section": "A3",
+          "modality": "In Person",
+          "units": "3",
+          "days_times": "M 01:00PM-02:30PM",
+          "instructor": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode_raw": "In-person Expectation"
+        }
+      ],
+      "soc_title": "First Person: Live with the Founders and Investors Shaping the Frontier I",
+      "soc_department": "Design",
+      "soc_ingested": true
+    },
+    {
+      "course_code": "51-806",
+      "course_name": "First Person: Live with the Founders and Investors Shaping the Frontier II",
+      "department": "51",
+      "units": 3,
+      "description": "",
+      "prerequisites": "",
+      "offered": [
+        "S27"
+      ],
+      "offered_qatar": false,
+      "offered_pitts": true,
+      "requirements": {
+        "CS": [],
+        "IS": [],
+        "BA": [],
+        "BS": []
+      },
+      "soc_sections": [
+        {
+          "section": "A4",
+          "days": "M",
+          "begin_time": "",
+          "end_time": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode": "In-person Expectation",
+          "campus": "Pittsburgh",
+          "modality": "In Person",
+          "semester_code": "S27",
+          "semester": "Spring 2027"
+        }
+      ],
+      "offerings": [
+        {
+          "semester": "Spring 2027",
+          "semester_code": "S27",
+          "campus": "Pittsburgh",
+          "section": "A4",
+          "modality": "In Person",
+          "units": "3",
+          "days_times": "M 01:00PM-02:30PM",
+          "instructor": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode_raw": "In-person Expectation"
+        }
+      ],
+      "soc_title": "First Person: Live with the Founders and Investors Shaping the Frontier II",
+      "soc_department": "Design",
+      "soc_ingested": true
+    },
+    {
+      "course_code": "57-359",
+      "course_name": "Audiovisual Composition",
+      "department": "57",
+      "units": 9,
+      "description": "",
+      "prerequisites": "",
+      "offered": [
+        "S27"
+      ],
+      "offered_qatar": false,
+      "offered_pitts": true,
+      "requirements": {
+        "CS": [],
+        "IS": [],
+        "BA": [],
+        "BS": []
+      },
+      "soc_sections": [
+        {
+          "section": "A",
+          "days": "TBA",
+          "begin_time": "",
+          "end_time": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode": "In-person Expectation",
+          "campus": "Pittsburgh",
+          "modality": "In Person",
+          "semester_code": "S27",
+          "semester": "Spring 2027"
+        }
+      ],
+      "offerings": [
+        {
+          "semester": "Spring 2027",
+          "semester_code": "S27",
+          "campus": "Pittsburgh",
+          "section": "A",
+          "modality": "In Person",
+          "units": "9",
+          "days_times": "TBA",
+          "instructor": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode_raw": "In-person Expectation"
+        }
+      ],
+      "soc_title": "Audiovisual Composition",
+      "soc_department": "Music",
+      "soc_ingested": true
+    },
+    {
+      "course_code": "57-399",
+      "course_name": "Music-Cinema-Culture",
+      "department": "57",
+      "units": 9,
+      "description": "",
+      "prerequisites": "",
+      "offered": [
+        "S27"
+      ],
+      "offered_qatar": false,
+      "offered_pitts": true,
+      "requirements": {
+        "CS": [],
+        "IS": [],
+        "BA": [],
+        "BS": []
+      },
+      "soc_sections": [
+        {
+          "section": "A",
+          "days": "TBA",
+          "begin_time": "",
+          "end_time": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode": "In-person Expectation",
+          "campus": "Pittsburgh",
+          "modality": "In Person",
+          "semester_code": "S27",
+          "semester": "Spring 2027"
+        }
+      ],
+      "offerings": [
+        {
+          "semester": "Spring 2027",
+          "semester_code": "S27",
+          "campus": "Pittsburgh",
+          "section": "A",
+          "modality": "In Person",
+          "units": "9",
+          "days_times": "TBA",
+          "instructor": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode_raw": "In-person Expectation"
+        }
+      ],
+      "soc_title": "Music-Cinema-Culture",
+      "soc_department": "Music",
       "soc_ingested": true
     }
   ],
