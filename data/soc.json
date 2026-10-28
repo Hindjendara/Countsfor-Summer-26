@@ -2,7 +2,7 @@
   "metadata": {
     "source": "Carnegie Mellon University -- Schedule of Classes",
     "url": "https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search",
-    "last_scrape": "2026-10-27T17:34:34.278275+00:00",
+    "last_scrape": "2026-10-28T11:51:35.166966+00:00",
     "semesters_on_form": [
       {
         "code": "S27",
@@ -10466,7 +10466,7 @@
           "department": "Arts & Entertainment Management",
           "sections": [
             {
-              "section": "A4",
+              "section": "A3",
               "mini": "Y",
               "days": "TBA",
               "begin_time": "TBA",
@@ -10484,7 +10484,7 @@
               "semester": "Spring 2027",
               "semester_code": "S27",
               "campus": "Pittsburgh",
-              "section": "A4",
+              "section": "A3",
               "modality": "In Person",
               "units": "3",
               "days_times": "TBA",
@@ -12352,7 +12352,7 @@
               "mini": "",
               "days": "MF",
               "begin_time": "12:00PM",
-              "end_time": "12:50PM",
+              "end_time": "04:00PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -12391,7 +12391,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "12",
-              "days_times": "MF 12:00PM-12:50PM",
+              "days_times": "MF 12:00PM-04:00PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -40424,7 +40424,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "02:00PM",
-              "end_time": "02:50PM",
+              "end_time": "04:20PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person Expectation Rotation",
               "campus": "Pittsburgh"
@@ -40463,7 +40463,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "9",
-              "days_times": "MW 02:00PM-02:50PM",
+              "days_times": "MW 02:00PM-04:20PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation Rotation"
@@ -69771,7 +69771,7 @@
         },
         {
           "course_number": "54476",
-          "title": "Media Creation Studio : Camera Skills",
+          "title": "Media Creation Studio : The Lens",
           "units": "5",
           "department_code": "DRA",
           "department": "Drama",
@@ -73577,7 +73577,7 @@
         },
         {
           "course_number": "54639",
-          "title": "Production TBA 4 : Directing",
+          "title": "Production Prep: TBA 4 : Directing",
           "units": "VAR",
           "department_code": "DRA",
           "department": "Drama",
@@ -79889,7 +79889,7 @@
         },
         {
           "course_number": "54976",
-          "title": "Media Creation Studio : Camera Skills",
+          "title": "Media Creation Studio : The Lens",
           "units": "5",
           "department_code": "DRA",
           "department": "Drama",
@@ -91576,7 +91576,7 @@
         },
         {
           "course_number": "76243",
-          "title": "History of Television: Drama",
+          "title": "History of Television Drama",
           "units": "9",
           "department_code": "ENG",
           "department": "English",
@@ -103123,7 +103123,7 @@
         },
         {
           "course_number": "79161",
-          "title": "Premodern China",
+          "title": "History and Mythmaking in Premodern China: Great Debates",
           "units": "9",
           "department_code": "HIS",
           "department": "History",
@@ -106481,8 +106481,8 @@
               "section": "W",
               "mini": "",
               "days": "UT",
-              "begin_time": "08:30AM",
-              "end_time": "09:45AM",
+              "begin_time": "10:00AM",
+              "end_time": "11:15AM",
               "location": "Doha, Qatar",
               "delivery_mode": "In-person Expectation",
               "campus": "Qatar"
@@ -106499,7 +106499,7 @@
               "section": "W",
               "modality": "In Person",
               "units": "9",
-              "days_times": "UT 08:30AM-09:45AM",
+              "days_times": "UT 10:00AM-11:15AM",
               "instructor": "",
               "location": "Doha, Qatar",
               "delivery_mode_raw": "In-person Expectation"
@@ -114923,8 +114923,8 @@
               "section": "D4",
               "mini": "Y",
               "days": "TR",
-              "begin_time": "05:00PM",
-              "end_time": "06:20PM",
+              "begin_time": "03:30PM",
+              "end_time": "04:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person Expectation",
               "campus": "Pittsburgh"
@@ -114987,7 +114987,7 @@
               "section": "D4",
               "modality": "In Person",
               "units": "6",
-              "days_times": "TR 05:00PM-06:20PM",
+              "days_times": "TR 03:30PM-04:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation"
@@ -137183,9 +137183,9 @@
             {
               "section": "W",
               "mini": "",
-              "days": "UT",
+              "days": "UTR",
               "begin_time": "02:30PM",
-              "end_time": "03:45PM",
+              "end_time": "03:20PM",
               "location": "Doha, Qatar",
               "delivery_mode": "In-person only",
               "campus": "Qatar"
@@ -137227,7 +137227,7 @@
               "section": "W",
               "modality": "In Person",
               "units": "9",
-              "days_times": "UT 02:30PM-03:45PM",
+              "days_times": "UTR 02:30PM-03:20PM",
               "instructor": "",
               "location": "Doha, Qatar",
               "delivery_mode_raw": "In-person only"
@@ -150642,9 +150642,9 @@
             {
               "section": "A",
               "mini": "",
-              "days": "TBA",
-              "begin_time": "TBA",
-              "end_time": "TBA",
+              "days": "T",
+              "begin_time": "02:00PM",
+              "end_time": "03:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person Expectation",
               "campus": "Pittsburgh"
@@ -150661,7 +150661,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "9",
-              "days_times": "TBA",
+              "days_times": "T 02:00PM-03:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation"
@@ -192833,7 +192833,7 @@
         },
         {
           "course_number": "17214",
-          "title": "Principles of Software Construction: Objects, Design, and Concurrency",
+          "title": "Agentic Software Development",
           "units": "12",
           "department_code": "S3D",
           "department": "Software & Societal Systems",
@@ -193959,7 +193959,7 @@
         },
         {
           "course_number": "17514",
-          "title": "Principles of Software Construction: Objects, Design, and Concurrency",
+          "title": "Agentic Software Development",
           "units": "12",
           "department_code": "S3D",
           "department": "Software & Societal Systems",
@@ -196039,7 +196039,7 @@
         },
         {
           "course_number": "17730",
-          "title": "Prompt Engineering",
+          "title": "Context Engineering",
           "units": "12",
           "department_code": "S3D",
           "department": "Software & Societal Systems",
@@ -204024,7 +204024,7 @@
           "sections": 42
         }
       ],
-      "scraped_at": "2026-10-27T17:34:34.278275+00:00",
+      "scraped_at": "2026-10-28T11:51:35.166966+00:00",
       "semester_label": "Spring 2027",
       "total_courses": 3151,
       "total_sections": 6959
@@ -242409,7 +242409,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "06:30PM",
-              "end_time": "07:20PM",
+              "end_time": "08:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -242471,7 +242471,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "9",
-              "days_times": "MW 06:30PM-07:20PM",
+              "days_times": "MW 06:30PM-08:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -413452,7 +413452,7 @@
           "sections": 50
         }
       ],
-      "scraped_at": "2026-10-27T17:34:34.278275+00:00",
+      "scraped_at": "2026-10-28T11:51:35.166966+00:00",
       "semester_label": "Fall 2026",
       "total_courses": 3244,
       "total_sections": 7138
@@ -429344,7 +429344,7 @@
           "sections": 0
         }
       ],
-      "scraped_at": "2026-10-27T17:34:34.278275+00:00",
+      "scraped_at": "2026-10-28T11:51:35.166966+00:00",
       "semester_label": "Summer 2026",
       "total_courses": 80,
       "total_sections": 647
@@ -635237,7 +635237,7 @@
           "sections": 39
         }
       ],
-      "scraped_at": "2026-10-27T17:34:34.278275+00:00",
+      "scraped_at": "2026-10-28T11:51:35.166966+00:00",
       "semester_label": "Spring 2026",
       "total_courses": 3208,
       "total_sections": 7004
@@ -842969,7 +842969,7 @@
           "sections": 36
         }
       ],
-      "scraped_at": "2026-10-27T17:34:34.278275+00:00",
+      "scraped_at": "2026-10-28T11:51:35.166966+00:00",
       "semester_label": "Fall 2025",
       "total_courses": 3213,
       "total_sections": 7084
