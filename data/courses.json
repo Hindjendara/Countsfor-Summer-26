@@ -7701,7 +7701,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "MF 12:00PM-04:00PM",
+          "days_times": "MF 12:00PM-12:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -8029,7 +8029,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "MF 12:00PM-12:50PM",
+          "days_times": "MF 12:00PM-04:00PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -21021,7 +21021,7 @@
           "section": "B",
           "modality": "In Person",
           "units": "9",
-          "days_times": "MW 06:30PM-08:50PM",
+          "days_times": "MW 06:30PM-07:20PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -22540,7 +22540,7 @@
           "section": "A",
           "modality": "In Person",
           "units": "12",
-          "days_times": "TR 02:00PM-04:50PM",
+          "days_times": "TR 02:00PM-02:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person only"
@@ -149983,18 +149983,6 @@
       },
       "soc_sections": [
         {
-          "section": "A",
-          "days": "MWF",
-          "begin_time": "",
-          "end_time": "",
-          "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode": "In-person Expectation",
-          "campus": "Pittsburgh",
-          "modality": "In Person",
-          "semester_code": "S27",
-          "semester": "Spring 2027"
-        },
-        {
           "section": "B",
           "days": "MWF",
           "begin_time": "",
@@ -150022,18 +150010,6 @@
       "soc_title": "Advanced First Year Writing: Special Topics",
       "soc_department": "English",
       "offerings": [
-        {
-          "semester": "Spring 2027",
-          "semester_code": "S27",
-          "campus": "Pittsburgh",
-          "section": "A",
-          "modality": "In Person",
-          "units": "9",
-          "days_times": "MWF 01:00PM-01:50PM",
-          "instructor": "",
-          "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode_raw": "In-person Expectation"
-        },
         {
           "semester": "Fall 2026",
           "semester_code": "F26",
@@ -213668,7 +213644,7 @@
           "campus": "Pittsburgh",
           "section": "A",
           "modality": "In Person",
-          "units": "9",
+          "units": "12",
           "days_times": "TR 11:00AM-12:20PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -213680,7 +213656,7 @@
           "campus": "Pittsburgh",
           "section": "A",
           "modality": "In Person",
-          "units": "9",
+          "units": "12",
           "days_times": "TR 11:00AM-12:20PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -228614,7 +228590,7 @@
       "soc_sections": [
         {
           "section": "W3",
-          "days": "TBA",
+          "days": "MW",
           "begin_time": "",
           "end_time": "",
           "location": "Doha, Qatar",
@@ -228633,7 +228609,7 @@
           "section": "W3",
           "modality": "In Person",
           "units": "3",
-          "days_times": "TBA",
+          "days_times": "MW 07:00PM-07:50PM",
           "instructor": "",
           "location": "Doha, Qatar",
           "delivery_mode_raw": "In-person Expectation"
@@ -238116,7 +238092,7 @@
       "soc_sections": [
         {
           "section": "W4",
-          "days": "TBA",
+          "days": "TW",
           "begin_time": "",
           "end_time": "",
           "location": "Doha, Qatar",
@@ -238147,7 +238123,7 @@
           "section": "W4",
           "modality": "In Person",
           "units": "3",
-          "days_times": "TBA",
+          "days_times": "TW 05:00PM-05:50PM",
           "instructor": "",
           "location": "Doha, Qatar",
           "delivery_mode_raw": "In-person Expectation"
@@ -238233,7 +238209,7 @@
           "section": "W4",
           "modality": "In Person",
           "units": "3",
-          "days_times": "W 06:00PM-07:20PM",
+          "days_times": "W 06:30PM-07:55PM",
           "instructor": "",
           "location": "Doha, Qatar",
           "delivery_mode_raw": "In-person Expectation"
@@ -446038,9 +446014,9 @@
           "begin_time": "",
           "end_time": "",
           "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode": "Remote only",
+          "delivery_mode": "In-person Expectation",
           "campus": "Pittsburgh",
-          "modality": "Remote",
+          "modality": "In Person",
           "semester_code": "S27",
           "semester": "Spring 2027"
         },
@@ -446111,12 +446087,12 @@
           "semester_code": "S27",
           "campus": "Pittsburgh",
           "section": "A",
-          "modality": "Remote",
+          "modality": "In Person",
           "units": "VAR",
           "days_times": "TBA",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode_raw": "Remote only"
+          "delivery_mode_raw": "In-person Expectation"
         },
         {
           "semester": "Fall 2026",
@@ -446208,9 +446184,9 @@
           "begin_time": "",
           "end_time": "",
           "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode": "Remote only",
+          "delivery_mode": "In-person Expectation",
           "campus": "Pittsburgh",
-          "modality": "Remote",
+          "modality": "In Person",
           "semester_code": "S27",
           "semester": "Spring 2027"
         },
@@ -446257,12 +446233,12 @@
           "semester_code": "S27",
           "campus": "Pittsburgh",
           "section": "A",
-          "modality": "Remote",
+          "modality": "In Person",
           "units": "9",
           "days_times": "TBA",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode_raw": "Remote only"
+          "delivery_mode_raw": "In-person Expectation"
         },
         {
           "semester": "Fall 2026",
@@ -761031,6 +761007,18 @@
       "soc_sections": [
         {
           "section": "A",
+          "days": "MW",
+          "begin_time": "",
+          "end_time": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode": "In-person Expectation",
+          "campus": "Pittsburgh",
+          "modality": "In Person",
+          "semester_code": "S27",
+          "semester": "Spring 2027"
+        },
+        {
+          "section": "A",
           "days": "MWF",
           "begin_time": "",
           "end_time": "",
@@ -761044,12 +761032,24 @@
       ],
       "offerings": [
         {
+          "semester": "Spring 2027",
+          "semester_code": "S27",
+          "campus": "Pittsburgh",
+          "section": "A",
+          "modality": "In Person",
+          "units": "VAR",
+          "days_times": "MW 02:00PM-03:20PM",
+          "instructor": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode_raw": "In-person Expectation"
+        },
+        {
           "semester": "Fall 2025",
           "semester_code": "F25",
           "campus": "Pittsburgh",
           "section": "A",
           "modality": "In Person",
-          "units": "12",
+          "units": "VAR",
           "days_times": "MWF 12:00PM-12:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -782312,7 +782312,7 @@
           "campus": "Pittsburgh",
           "section": "A4",
           "modality": "Remote",
-          "units": "VAR",
+          "units": "6",
           "days_times": "M 12:00PM-01:45PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -782324,7 +782324,7 @@
           "campus": "Pittsburgh",
           "section": "A4",
           "modality": "Remote",
-          "units": "VAR",
+          "units": "6",
           "days_times": "TBA",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -804205,9 +804205,9 @@
           "begin_time": "",
           "end_time": "",
           "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode": "Remote only",
+          "delivery_mode": "In-person Expectation",
           "campus": "Pittsburgh",
-          "modality": "Remote",
+          "modality": "In Person",
           "semester_code": "S27",
           "semester": "Spring 2027"
         },
@@ -804230,12 +804230,12 @@
           "semester_code": "S27",
           "campus": "Pittsburgh",
           "section": "A",
-          "modality": "Remote",
+          "modality": "In Person",
           "units": "9",
           "days_times": "M 06:00PM-06:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
-          "delivery_mode_raw": "Remote only"
+          "delivery_mode_raw": "In-person Expectation"
         },
         {
           "semester": "Spring 2026",
@@ -865030,7 +865030,7 @@
       "soc_sections": [
         {
           "section": "A3",
-          "days": "TR",
+          "days": "MW",
           "begin_time": "",
           "end_time": "",
           "location": "Pittsburgh, Pennsylvania",
@@ -865061,7 +865061,7 @@
           "section": "A3",
           "modality": "In Person",
           "units": "6",
-          "days_times": "TR 11:00AM-12:20PM",
+          "days_times": "MW 03:30PM-04:50PM",
           "instructor": "",
           "location": "Pittsburgh, Pennsylvania",
           "delivery_mode_raw": "In-person Expectation"
@@ -906864,6 +906864,106 @@
       ],
       "soc_title": "Music-Cinema-Culture",
       "soc_department": "Music",
+      "soc_ingested": true
+    },
+    {
+      "course_code": "54-730",
+      "course_name": "Writing the Musical Theater Libretto",
+      "department": "54",
+      "units": 6,
+      "description": "",
+      "prerequisites": "",
+      "offered": [
+        "S27"
+      ],
+      "offered_qatar": false,
+      "offered_pitts": true,
+      "requirements": {
+        "CS": [],
+        "IS": [],
+        "BA": [],
+        "BS": []
+      },
+      "soc_sections": [
+        {
+          "section": "A3",
+          "days": "TR",
+          "begin_time": "",
+          "end_time": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode": "In-person only",
+          "campus": "Pittsburgh",
+          "modality": "In Person",
+          "semester_code": "S27",
+          "semester": "Spring 2027"
+        }
+      ],
+      "offerings": [
+        {
+          "semester": "Spring 2027",
+          "semester_code": "S27",
+          "campus": "Pittsburgh",
+          "section": "A3",
+          "modality": "In Person",
+          "units": "6",
+          "days_times": "TR 11:00AM-12:20PM",
+          "instructor": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode_raw": "In-person only"
+        }
+      ],
+      "soc_title": "Writing the Musical Theater Libretto",
+      "soc_department": "Drama",
+      "soc_ingested": true
+    },
+    {
+      "course_code": "82-392",
+      "course_name": "Advanced Russian II: Great Short Works",
+      "department": "82",
+      "units": 9,
+      "description": "",
+      "prerequisites": "",
+      "offered": [
+        "S27"
+      ],
+      "offered_qatar": false,
+      "offered_pitts": true,
+      "requirements": {
+        "CS": [],
+        "IS": [],
+        "BA": [],
+        "BS": []
+      },
+      "soc_sections": [
+        {
+          "section": "A",
+          "days": "TBA",
+          "begin_time": "",
+          "end_time": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode": "In-person Expectation",
+          "campus": "Pittsburgh",
+          "modality": "In Person",
+          "semester_code": "S27",
+          "semester": "Spring 2027"
+        }
+      ],
+      "offerings": [
+        {
+          "semester": "Spring 2027",
+          "semester_code": "S27",
+          "campus": "Pittsburgh",
+          "section": "A",
+          "modality": "In Person",
+          "units": "9",
+          "days_times": "TBA",
+          "instructor": "",
+          "location": "Pittsburgh, Pennsylvania",
+          "delivery_mode_raw": "In-person Expectation"
+        }
+      ],
+      "soc_title": "Advanced Russian II: Great Short Works",
+      "soc_department": "Languages Cultures & Appl Linguistics",
       "soc_ingested": true
     }
   ],
