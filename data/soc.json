@@ -2,7 +2,7 @@
   "metadata": {
     "source": "Carnegie Mellon University -- Schedule of Classes",
     "url": "https://enr-apps.as.cmu.edu/open/SOC/SOCServlet/search",
-    "last_scrape": "2026-11-05T19:31:25.443706+00:00",
+    "last_scrape": "2026-11-06T13:28:11.457361+00:00",
     "semesters_on_form": [
       {
         "code": "S27",
@@ -12235,7 +12235,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "12:00PM",
-              "end_time": "12:50PM",
+              "end_time": "04:00PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -12297,7 +12297,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 12:00PM-12:50PM",
+              "days_times": "TR 12:00PM-04:00PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -12352,7 +12352,7 @@
               "mini": "",
               "days": "MF",
               "begin_time": "12:00PM",
-              "end_time": "12:50PM",
+              "end_time": "04:00PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -12391,7 +12391,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "12",
-              "days_times": "MF 12:00PM-12:50PM",
+              "days_times": "MF 12:00PM-04:00PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -15072,9 +15072,9 @@
             {
               "section": "W3",
               "mini": "Y",
-              "days": "MTWR",
+              "days": "S",
               "begin_time": "06:00PM",
-              "end_time": "07:00PM",
+              "end_time": "08:00PM",
               "location": "Doha, Qatar",
               "delivery_mode": "In-person + remote",
               "campus": "Qatar"
@@ -15091,7 +15091,7 @@
               "section": "W3",
               "modality": "Hybrid",
               "units": "3",
-              "days_times": "MTWR 06:00PM-07:00PM",
+              "days_times": "S 06:00PM-08:00PM",
               "instructor": "",
               "location": "Doha, Qatar",
               "delivery_mode_raw": "In-person + remote"
@@ -16580,7 +16580,7 @@
         },
         {
           "course_number": "42698",
-          "title": "Special Topics: Transformers and Agentic AI in Biomedical Engineering",
+          "title": "Special Topics: Transformers and Agentic AI in Biomedical Engineering This Section Cancelled",
           "units": "12",
           "department_code": "BMD",
           "department": "Biomedical Engineering",
@@ -23141,8 +23141,8 @@
               "section": "A3",
               "mini": "Y",
               "days": "TR",
-              "begin_time": "04:00PM",
-              "end_time": "05:45PM",
+              "begin_time": "02:00PM",
+              "end_time": "03:45PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person Expectation",
               "campus": "Pittsburgh"
@@ -23169,7 +23169,7 @@
               "section": "A3",
               "modality": "In Person",
               "units": "6",
-              "days_times": "TR 04:00PM-05:45PM",
+              "days_times": "TR 02:00PM-03:45PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation"
@@ -40456,7 +40456,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "06:30PM",
-              "end_time": "07:20PM",
+              "end_time": "08:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -40497,7 +40497,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "9",
-              "days_times": "MW 06:30PM-07:20PM",
+              "days_times": "MW 06:30PM-08:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -76273,7 +76273,7 @@
         },
         {
           "course_number": "54730",
-          "title": "Writing the Musical Theater Libretto",
+          "title": "Writing the Opera Libretto.",
           "units": "6",
           "department_code": "DRA",
           "department": "Drama",
@@ -114319,6 +114319,44 @@
           "semester_code": "S27"
         },
         {
+          "course_number": "95792",
+          "title": "Data Mining II",
+          "units": "6",
+          "department_code": "ISM",
+          "department": "Information Systems:Sch of IS & Mgt",
+          "sections": [
+            {
+              "section": "A3",
+              "mini": "Y",
+              "days": "TBA",
+              "begin_time": "TBA",
+              "end_time": "TBA",
+              "location": "Pittsburgh, Pennsylvania",
+              "delivery_mode": "In-person Expectation",
+              "campus": "Pittsburgh"
+            }
+          ],
+          "campus": [
+            "Pittsburgh"
+          ],
+          "offerings": [
+            {
+              "semester": "Spring 2027",
+              "semester_code": "S27",
+              "campus": "Pittsburgh",
+              "section": "A3",
+              "modality": "In Person",
+              "units": "6",
+              "days_times": "TBA",
+              "instructor": "",
+              "location": "Pittsburgh, Pennsylvania",
+              "delivery_mode_raw": "In-person Expectation"
+            }
+          ],
+          "semester": "Spring 2027",
+          "semester_code": "S27"
+        },
+        {
           "course_number": "95800",
           "title": "Foundations of AI/ML",
           "units": "12",
@@ -146708,6 +146746,16 @@
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person Expectation",
               "campus": "Pittsburgh"
+            },
+            {
+              "section": "B",
+              "mini": "",
+              "days": "T",
+              "begin_time": "11:00AM",
+              "end_time": "11:50AM",
+              "location": "Pittsburgh, Pennsylvania",
+              "delivery_mode": "In-person Expectation",
+              "campus": "Pittsburgh"
             }
           ],
           "campus": [
@@ -146722,6 +146770,18 @@
               "modality": "In Person",
               "units": "3",
               "days_times": "T 10:00AM-10:50AM",
+              "instructor": "",
+              "location": "Pittsburgh, Pennsylvania",
+              "delivery_mode_raw": "In-person Expectation"
+            },
+            {
+              "semester": "Spring 2027",
+              "semester_code": "S27",
+              "campus": "Pittsburgh",
+              "section": "B",
+              "modality": "In Person",
+              "units": "3",
+              "days_times": "T 11:00AM-11:50AM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation"
@@ -183567,10 +183627,21 @@
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
+            },
+            {
+              "section": "W",
+              "mini": "",
+              "days": "UT",
+              "begin_time": "10:00AM",
+              "end_time": "11:15AM",
+              "location": "Doha, Qatar",
+              "delivery_mode": "In-person Expectation",
+              "campus": "Qatar"
             }
           ],
           "campus": [
-            "Pittsburgh"
+            "Pittsburgh",
+            "Qatar"
           ],
           "offerings": [
             {
@@ -183584,6 +183655,18 @@
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
+            },
+            {
+              "semester": "Spring 2027",
+              "semester_code": "S27",
+              "campus": "Qatar",
+              "section": "W",
+              "modality": "In Person",
+              "units": "9",
+              "days_times": "UT 10:00AM-11:15AM",
+              "instructor": "",
+              "location": "Doha, Qatar",
+              "delivery_mode_raw": "In-person Expectation"
             }
           ],
           "semester": "Spring 2027",
@@ -183681,21 +183764,10 @@
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
-            },
-            {
-              "section": "W",
-              "mini": "",
-              "days": "UT",
-              "begin_time": "10:00AM",
-              "end_time": "11:15AM",
-              "location": "Doha, Qatar",
-              "delivery_mode": "In-person only",
-              "campus": "Qatar"
             }
           ],
           "campus": [
-            "Pittsburgh",
-            "Qatar"
+            "Pittsburgh"
           ],
           "offerings": [
             {
@@ -183708,18 +183780,6 @@
               "days_times": "TR 02:00PM-03:20PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
-              "delivery_mode_raw": "In-person only"
-            },
-            {
-              "semester": "Spring 2027",
-              "semester_code": "S27",
-              "campus": "Qatar",
-              "section": "W",
-              "modality": "In Person",
-              "units": "9",
-              "days_times": "UT 10:00AM-11:15AM",
-              "instructor": "",
-              "location": "Doha, Qatar",
               "delivery_mode_raw": "In-person only"
             }
           ],
@@ -185798,8 +185858,8 @@
               "section": "W",
               "mini": "",
               "days": "UT",
-              "begin_time": "02:30PM",
-              "end_time": "03:45PM",
+              "begin_time": "11:30AM",
+              "end_time": "12:45PM",
               "location": "Doha, Qatar",
               "delivery_mode": "In-person only",
               "campus": "Qatar"
@@ -185816,7 +185876,7 @@
               "section": "W",
               "modality": "In Person",
               "units": "9",
-              "days_times": "UT 02:30PM-03:45PM",
+              "days_times": "UT 11:30AM-12:45PM",
               "instructor": "",
               "location": "Doha, Qatar",
               "delivery_mode_raw": "In-person only"
@@ -186328,8 +186388,8 @@
               "section": "D4",
               "mini": "Y",
               "days": "TR",
-              "begin_time": "02:00PM",
-              "end_time": "03:20PM",
+              "begin_time": "05:00PM",
+              "end_time": "06:20PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person Expectation",
               "campus": "Pittsburgh"
@@ -186382,7 +186442,7 @@
               "section": "D4",
               "modality": "In Person",
               "units": "6",
-              "days_times": "TR 02:00PM-03:20PM",
+              "days_times": "TR 05:00PM-06:20PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation"
@@ -189431,7 +189491,7 @@
         },
         {
           "course_number": "16745",
-          "title": "Optimal Control and Reinforcement Learning",
+          "title": "Optimal Control and Learning",
           "units": "12",
           "department_code": "ROB",
           "department": "Robotics",
@@ -189440,8 +189500,8 @@
               "section": "A",
               "mini": "",
               "days": "TR",
-              "begin_time": "05:00PM",
-              "end_time": "06:20PM",
+              "begin_time": "12:30PM",
+              "end_time": "01:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person Expectation",
               "campus": "Pittsburgh"
@@ -189458,7 +189518,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 05:00PM-06:20PM",
+              "days_times": "TR 12:30PM-01:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person Expectation"
@@ -189887,7 +189947,7 @@
         },
         {
           "course_number": "16883",
-          "title": "Provably Safe Robotics",
+          "title": "Provably Safe Robotics This Section Cancelled",
           "units": "12",
           "department_code": "ROB",
           "department": "Robotics",
@@ -203916,12 +203976,6 @@
           "sections": 83
         },
         {
-          "code": "CMQ",
-          "name": "CMUQ-Wide Studies",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "CMU",
           "name": "Carnegie Mellon University-Wide Studies",
           "courses": 31,
@@ -203956,12 +204010,6 @@
           "name": "Computer Science",
           "courses": 89,
           "sections": 285
-        },
-        {
-          "code": "BCA",
-          "name": "Computer Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "DES",
@@ -204000,12 +204048,6 @@
           "sections": 49
         },
         {
-          "code": "BEA",
-          "name": "Engineering Studies and Arts",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "ENG",
           "name": "English",
           "courses": 117,
@@ -204042,12 +204084,6 @@
           "sections": 66
         },
         {
-          "code": "BHA",
-          "name": "Humanities and Arts",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "ICT",
           "name": "Information & Communication Technology",
           "courses": 0,
@@ -204068,8 +204104,8 @@
         {
           "code": "ISM",
           "name": "Information Systems:Sch of IS & Mgt",
-          "courses": 53,
-          "sections": 111
+          "courses": 54,
+          "sections": 112
         },
         {
           "code": "III",
@@ -204129,7 +204165,7 @@
           "code": "MUS",
           "name": "Music",
           "courses": 321,
-          "sections": 1025
+          "sections": 1026
         },
         {
           "code": "NVS",
@@ -204180,6 +204216,12 @@
           "sections": 62
         },
         {
+          "code": "CMQ",
+          "name": "Qatar Campus Wide Studies",
+          "courses": 0,
+          "sections": 0
+        },
+        {
           "code": "ROB",
           "name": "Robotics",
           "courses": 52,
@@ -204190,12 +204232,6 @@
           "name": "SCS Interdisciplinary",
           "courses": 10,
           "sections": 19
-        },
-        {
-          "code": "BSA",
-          "name": "Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "SDS",
@@ -204222,10 +204258,10 @@
           "sections": 42
         }
       ],
-      "scraped_at": "2026-11-05T19:31:25.443706+00:00",
+      "scraped_at": "2026-11-06T13:28:11.457361+00:00",
       "semester_label": "Spring 2027",
-      "total_courses": 3151,
-      "total_sections": 6968
+      "total_courses": 3152,
+      "total_sections": 6970
     },
     "F26": {
       "courses": [
@@ -242607,7 +242643,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "06:30PM",
-              "end_time": "07:20PM",
+              "end_time": "08:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -242669,7 +242705,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "9",
-              "days_times": "MW 06:30PM-07:20PM",
+              "days_times": "MW 06:30PM-08:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -413366,12 +413402,6 @@
           "sections": 91
         },
         {
-          "code": "CMQ",
-          "name": "CMUQ-Wide Studies",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "CMU",
           "name": "Carnegie Mellon University-Wide Studies",
           "courses": 26,
@@ -413406,12 +413436,6 @@
           "name": "Computer Science",
           "courses": 95,
           "sections": 317
-        },
-        {
-          "code": "BCA",
-          "name": "Computer Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "DES",
@@ -413450,12 +413474,6 @@
           "sections": 50
         },
         {
-          "code": "BEA",
-          "name": "Engineering Studies and Arts",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "ENG",
           "name": "English",
           "courses": 125,
@@ -413490,12 +413508,6 @@
           "name": "Human-Computer Interaction",
           "courses": 47,
           "sections": 72
-        },
-        {
-          "code": "BHA",
-          "name": "Humanities and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "ICT",
@@ -413630,6 +413642,12 @@
           "sections": 61
         },
         {
+          "code": "CMQ",
+          "name": "Qatar Campus Wide Studies",
+          "courses": 0,
+          "sections": 0
+        },
+        {
           "code": "ROB",
           "name": "Robotics",
           "courses": 46,
@@ -413640,12 +413658,6 @@
           "name": "SCS Interdisciplinary",
           "courses": 11,
           "sections": 22
-        },
-        {
-          "code": "BSA",
-          "name": "Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "SDS",
@@ -413672,7 +413684,7 @@
           "sections": 50
         }
       ],
-      "scraped_at": "2026-11-05T19:31:25.443706+00:00",
+      "scraped_at": "2026-11-06T13:28:11.457361+00:00",
       "semester_label": "Fall 2026",
       "total_courses": 3244,
       "total_sections": 7139
@@ -429258,12 +429270,6 @@
           "sections": 9
         },
         {
-          "code": "CMQ",
-          "name": "CMUQ-Wide Studies",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "CMU",
           "name": "Carnegie Mellon University-Wide Studies",
           "courses": 1,
@@ -429298,12 +429304,6 @@
           "name": "Computer Science",
           "courses": 1,
           "sections": 26
-        },
-        {
-          "code": "BCA",
-          "name": "Computer Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "DES",
@@ -429342,12 +429342,6 @@
           "sections": 8
         },
         {
-          "code": "BEA",
-          "name": "Engineering Studies and Arts",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "ENG",
           "name": "English",
           "courses": 2,
@@ -429382,12 +429376,6 @@
           "name": "Human-Computer Interaction",
           "courses": 1,
           "sections": 14
-        },
-        {
-          "code": "BHA",
-          "name": "Humanities and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "ICT",
@@ -429522,6 +429510,12 @@
           "sections": 8
         },
         {
+          "code": "CMQ",
+          "name": "Qatar Campus Wide Studies",
+          "courses": 0,
+          "sections": 0
+        },
+        {
           "code": "ROB",
           "name": "Robotics",
           "courses": 1,
@@ -429532,12 +429526,6 @@
           "name": "SCS Interdisciplinary",
           "courses": 1,
           "sections": 1
-        },
-        {
-          "code": "BSA",
-          "name": "Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "SDS",
@@ -429564,7 +429552,7 @@
           "sections": 0
         }
       ],
-      "scraped_at": "2026-11-05T19:31:25.443706+00:00",
+      "scraped_at": "2026-11-06T13:28:11.457361+00:00",
       "semester_label": "Summer 2026",
       "total_courses": 80,
       "total_sections": 647
@@ -468798,7 +468786,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "06:30PM",
-              "end_time": "08:50PM",
+              "end_time": "07:20PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -468839,7 +468827,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "9",
-              "days_times": "MW 06:30PM-08:50PM",
+              "days_times": "MW 06:30PM-07:20PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -469073,7 +469061,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "02:00PM",
-              "end_time": "02:50PM",
+              "end_time": "04:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -469083,7 +469071,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "02:00PM",
-              "end_time": "04:50PM",
+              "end_time": "02:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -469112,7 +469100,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "12",
-              "days_times": "MW 02:00PM-02:50PM",
+              "days_times": "MW 02:00PM-04:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -469124,7 +469112,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 02:00PM-04:50PM",
+              "days_times": "TR 02:00PM-02:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -635151,12 +635139,6 @@
           "sections": 89
         },
         {
-          "code": "CMQ",
-          "name": "CMUQ-Wide Studies",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "CMU",
           "name": "Carnegie Mellon University-Wide Studies",
           "courses": 30,
@@ -635191,12 +635173,6 @@
           "name": "Computer Science",
           "courses": 91,
           "sections": 284
-        },
-        {
-          "code": "BCA",
-          "name": "Computer Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "DES",
@@ -635235,12 +635211,6 @@
           "sections": 51
         },
         {
-          "code": "BEA",
-          "name": "Engineering Studies and Arts",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "ENG",
           "name": "English",
           "courses": 109,
@@ -635275,12 +635245,6 @@
           "name": "Human-Computer Interaction",
           "courses": 51,
           "sections": 75
-        },
-        {
-          "code": "BHA",
-          "name": "Humanities and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "ICT",
@@ -635415,6 +635379,12 @@
           "sections": 92
         },
         {
+          "code": "CMQ",
+          "name": "Qatar Campus Wide Studies",
+          "courses": 0,
+          "sections": 0
+        },
+        {
           "code": "ROB",
           "name": "Robotics",
           "courses": 45,
@@ -635425,12 +635395,6 @@
           "name": "SCS Interdisciplinary",
           "courses": 10,
           "sections": 19
-        },
-        {
-          "code": "BSA",
-          "name": "Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "SDS",
@@ -635457,7 +635421,7 @@
           "sections": 39
         }
       ],
-      "scraped_at": "2026-11-05T19:31:25.443706+00:00",
+      "scraped_at": "2026-11-06T13:28:11.457361+00:00",
       "semester_label": "Spring 2026",
       "total_courses": 3208,
       "total_sections": 7004
@@ -673309,7 +673273,7 @@
               "mini": "",
               "days": "MW",
               "begin_time": "06:30PM",
-              "end_time": "07:20PM",
+              "end_time": "08:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -673371,7 +673335,7 @@
               "section": "B",
               "modality": "In Person",
               "units": "9",
-              "days_times": "MW 06:30PM-07:20PM",
+              "days_times": "MW 06:30PM-08:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -673635,7 +673599,7 @@
               "mini": "",
               "days": "TR",
               "begin_time": "02:00PM",
-              "end_time": "04:50PM",
+              "end_time": "02:50PM",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode": "In-person only",
               "campus": "Pittsburgh"
@@ -673664,7 +673628,7 @@
               "section": "A",
               "modality": "In Person",
               "units": "12",
-              "days_times": "TR 02:00PM-04:50PM",
+              "days_times": "TR 02:00PM-02:50PM",
               "instructor": "",
               "location": "Pittsburgh, Pennsylvania",
               "delivery_mode_raw": "In-person only"
@@ -842883,12 +842847,6 @@
           "sections": 79
         },
         {
-          "code": "CMQ",
-          "name": "CMUQ-Wide Studies",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "CMU",
           "name": "Carnegie Mellon University-Wide Studies",
           "courses": 24,
@@ -842923,12 +842881,6 @@
           "name": "Computer Science",
           "courses": 105,
           "sections": 324
-        },
-        {
-          "code": "BCA",
-          "name": "Computer Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "DES",
@@ -842967,12 +842919,6 @@
           "sections": 53
         },
         {
-          "code": "BEA",
-          "name": "Engineering Studies and Arts",
-          "courses": 0,
-          "sections": 0
-        },
-        {
           "code": "ENG",
           "name": "English",
           "courses": 110,
@@ -843007,12 +842953,6 @@
           "name": "Human-Computer Interaction",
           "courses": 51,
           "sections": 87
-        },
-        {
-          "code": "BHA",
-          "name": "Humanities and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "ICT",
@@ -843147,6 +843087,12 @@
           "sections": 79
         },
         {
+          "code": "CMQ",
+          "name": "Qatar Campus Wide Studies",
+          "courses": 0,
+          "sections": 0
+        },
+        {
           "code": "ROB",
           "name": "Robotics",
           "courses": 42,
@@ -843157,12 +843103,6 @@
           "name": "SCS Interdisciplinary",
           "courses": 9,
           "sections": 14
-        },
-        {
-          "code": "BSA",
-          "name": "Science and Arts",
-          "courses": 0,
-          "sections": 0
         },
         {
           "code": "SDS",
@@ -843189,7 +843129,7 @@
           "sections": 36
         }
       ],
-      "scraped_at": "2026-11-05T19:31:25.443706+00:00",
+      "scraped_at": "2026-11-06T13:28:11.457361+00:00",
       "semester_label": "Fall 2025",
       "total_courses": 3213,
       "total_sections": 7084
